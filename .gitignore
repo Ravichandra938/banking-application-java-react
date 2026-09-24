@@ -1,0 +1,12 @@
+# Database credentials
+src/main/resources/db.properties
+
+# Maven build files
+target/
+
+# IDE files
+.vscode/
+.idea/
+
+# Java compiled files
+*.class
