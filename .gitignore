@@ -10,3 +10,8 @@ target/
 
 # Java compiled files
 *.class
+# React / Node
+banking-react/node_modules/
+banking-react/dist/
+banking-react/.env
+banking-react/.env.*
